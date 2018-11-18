@@ -1,0 +1,4 @@
+t pull -p
+# 等同于下面的命令
+$ git fetch --prune origin 
+$ git fetch -p
